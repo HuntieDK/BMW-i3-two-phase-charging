@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Miscellaneous)(type KiCad)(uri "../KiCad libraries/Miscellaneous.pretty")(options "")(descr ""))
+)
