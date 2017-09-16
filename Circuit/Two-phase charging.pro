@@ -37,7 +37,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=../../KiCad libraries
+LibDir=../KiCad libraries
 [eeschema/libraries]
 LibName1=device
 LibName2=power
