@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../KiCad libraries
+LibDir=../KiCad libraries
 [eeschema/libraries]
 LibName1=device
 LibName2=power
